@@ -69,11 +69,3 @@ ul {
   justify-content: space-between;
   align-items: center;
 }
-
-li {
-  border-width: 1px;
-  border-color: #a63f38;
-  border-style: solid;
-  width: 33.3333%;
-  text-align: center;
-}
